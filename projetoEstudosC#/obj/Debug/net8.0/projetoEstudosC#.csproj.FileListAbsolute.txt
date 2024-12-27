@@ -1,0 +1,14 @@
+C:\Users\samue\source\repos\projetoEstudosC#\projetoEstudosC#\bin\Debug\net8.0\projetoEstudosC#.exe
+C:\Users\samue\source\repos\projetoEstudosC#\projetoEstudosC#\bin\Debug\net8.0\projetoEstudosC#.deps.json
+C:\Users\samue\source\repos\projetoEstudosC#\projetoEstudosC#\bin\Debug\net8.0\projetoEstudosC#.runtimeconfig.json
+C:\Users\samue\source\repos\projetoEstudosC#\projetoEstudosC#\bin\Debug\net8.0\projetoEstudosC#.dll
+C:\Users\samue\source\repos\projetoEstudosC#\projetoEstudosC#\bin\Debug\net8.0\projetoEstudosC#.pdb
+C:\Users\samue\source\repos\projetoEstudosC#\projetoEstudosC#\obj\Debug\net8.0\projetoEstudosC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samue\source\repos\projetoEstudosC#\projetoEstudosC#\obj\Debug\net8.0\projetoEstudosC#.AssemblyInfoInputs.cache
+C:\Users\samue\source\repos\projetoEstudosC#\projetoEstudosC#\obj\Debug\net8.0\projetoEstudosC#.AssemblyInfo.cs
+C:\Users\samue\source\repos\projetoEstudosC#\projetoEstudosC#\obj\Debug\net8.0\projetoEstudosC#.csproj.CoreCompileInputs.cache
+C:\Users\samue\source\repos\projetoEstudosC#\projetoEstudosC#\obj\Debug\net8.0\projetoEstudosC#.dll
+C:\Users\samue\source\repos\projetoEstudosC#\projetoEstudosC#\obj\Debug\net8.0\refint\projetoEstudosC#.dll
+C:\Users\samue\source\repos\projetoEstudosC#\projetoEstudosC#\obj\Debug\net8.0\projetoEstudosC#.pdb
+C:\Users\samue\source\repos\projetoEstudosC#\projetoEstudosC#\obj\Debug\net8.0\projetoEstudosC#.genruntimeconfig.cache
+C:\Users\samue\source\repos\projetoEstudosC#\projetoEstudosC#\obj\Debug\net8.0\ref\projetoEstudosC#.dll
